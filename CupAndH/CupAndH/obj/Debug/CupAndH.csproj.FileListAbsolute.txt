@@ -1,0 +1,8 @@
+C:\Users\am312792\AppData\Local\Temporary Projects\CupAndH\bin\Debug\CupAndH.exe.config
+C:\Users\am312792\AppData\Local\Temporary Projects\CupAndH\bin\Debug\CupAndH.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\CupAndH\bin\Debug\CupAndH.pdb
+C:\Users\am312792\AppData\Local\Temporary Projects\CupAndH\obj\Debug\CupAndH.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\CupAndH\obj\Debug\CupAndH.pdb
+C:\Users\am312792\Desktop\CSharp\CupAndH\CupAndH\bin\Debug\CupAndH.exe.config
+C:\Users\am312792\Desktop\CSharp\CupAndH\CupAndH\obj\Debug\CupAndH.exe
+C:\Users\am312792\Desktop\CSharp\CupAndH\CupAndH\obj\Debug\CupAndH.pdb
