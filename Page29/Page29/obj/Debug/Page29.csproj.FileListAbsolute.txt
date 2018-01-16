@@ -1,0 +1,8 @@
+C:\Users\am312792\AppData\Local\Temporary Projects\Page29\bin\Debug\Page29.exe.config
+C:\Users\am312792\AppData\Local\Temporary Projects\Page29\bin\Debug\Page29.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\Page29\bin\Debug\Page29.pdb
+C:\Users\am312792\AppData\Local\Temporary Projects\Page29\obj\Debug\Page29.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\Page29\obj\Debug\Page29.pdb
+C:\Users\am312792\Desktop\CSharp\Page29\Page29\bin\Debug\Page29.exe.config
+C:\Users\am312792\Desktop\CSharp\Page29\Page29\obj\Debug\Page29.exe
+C:\Users\am312792\Desktop\CSharp\Page29\Page29\obj\Debug\Page29.pdb
