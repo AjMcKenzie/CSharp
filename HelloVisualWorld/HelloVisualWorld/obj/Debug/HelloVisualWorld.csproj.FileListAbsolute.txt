@@ -1,0 +1,18 @@
+C:\Users\am312792\AppData\Local\Temporary Projects\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe.config
+C:\Users\am312792\AppData\Local\Temporary Projects\HelloVisualWorld\obj\Debug\HelloVisualWorld.csprojResolveAssemblyReference.cache
+C:\Users\am312792\AppData\Local\Temporary Projects\HelloVisualWorld\obj\Debug\HelloVisualWorld.HelloForm.resources
+C:\Users\am312792\AppData\Local\Temporary Projects\HelloVisualWorld\obj\Debug\HelloVisualWorld.Properties.Resources.resources
+C:\Users\am312792\AppData\Local\Temporary Projects\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.GenerateResource.Cache
+C:\Users\am312792\AppData\Local\Temporary Projects\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\HelloVisualWorld\bin\Debug\HelloVisualWorld.pdb
+C:\Users\am312792\AppData\Local\Temporary Projects\HelloVisualWorld\obj\Debug\HelloVisualWorld.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\HelloVisualWorld\obj\Debug\HelloVisualWorld.pdb
+C:\Users\am312792\Desktop\CSharp\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe.config
+C:\Users\am312792\Desktop\CSharp\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.exe
+C:\Users\am312792\Desktop\CSharp\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.pdb
+C:\Users\am312792\Desktop\CSharp\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe
+C:\Users\am312792\Desktop\CSharp\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.pdb
+C:\Users\am312792\Desktop\CSharp\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csprojResolveAssemblyReference.cache
+C:\Users\am312792\Desktop\CSharp\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.HelloForm.resources
+C:\Users\am312792\Desktop\CSharp\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.Properties.Resources.resources
+C:\Users\am312792\Desktop\CSharp\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.GenerateResource.Cache
