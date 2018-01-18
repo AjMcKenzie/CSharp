@@ -1,2 +1,8 @@
 C:\Users\am312792\AppData\Local\Temporary Projects\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.exe.config
 C:\Users\am312792\Desktop\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.exe.config
+C:\Users\am312792\Desktop\CSharp\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.exe.config
+C:\Users\am312792\Desktop\CSharp\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.exe
+C:\Users\am312792\Desktop\CSharp\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.pdb
+C:\Users\am312792\Desktop\CSharp\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\am312792\Desktop\CSharp\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.exe
+C:\Users\am312792\Desktop\CSharp\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.pdb
