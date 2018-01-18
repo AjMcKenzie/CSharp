@@ -1,2 +1,6 @@
 C:\Users\am312792\AppData\Local\Temporary Projects\DemoORAndAND\bin\Debug\DemoORAndAND.exe.config
 C:\Users\am312792\Desktop\CSharp\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.exe.config
+C:\Users\am312792\Desktop\CSharp\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.exe
+C:\Users\am312792\Desktop\CSharp\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.pdb
+C:\Users\am312792\Desktop\CSharp\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.exe
+C:\Users\am312792\Desktop\CSharp\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.pdb
