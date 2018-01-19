@@ -50,7 +50,7 @@ namespace DailySpecial
                     special = "Invalid day";
                     break;
             }
-            lblOutPut.Text = "Day-"+Day +"Today's special is " + special;
+            lblOutPut.Text = "Day-"+ ((Day)day) +". Today's special is " + special;
         }
         
            
