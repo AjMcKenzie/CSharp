@@ -10,3 +10,9 @@ C:\Users\am312792\AppData\Local\Temporary Projects\GreenvilleRevenueGUI\obj\Debu
 C:\Users\am312792\Desktop\CSharp\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
 C:\Users\am312792\Desktop\CSharp\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
 C:\Users\am312792\Desktop\CSharp\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\am312792\Desktop\CSharp\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\am312792\Desktop\CSharp\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\am312792\Desktop\CSharp\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csprojResolveAssemblyReference.cache
+C:\Users\am312792\Desktop\CSharp\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\am312792\Desktop\CSharp\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\am312792\Desktop\CSharp\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.Cache

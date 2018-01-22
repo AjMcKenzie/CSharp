@@ -1,0 +1,2 @@
+C:\Users\am312792\AppData\Local\Temporary Projects\ValidID\bin\Debug\ValidID.exe.config
+C:\Users\am312792\Desktop\CSharp\ValidID\ValidID\bin\Debug\ValidID.exe.config

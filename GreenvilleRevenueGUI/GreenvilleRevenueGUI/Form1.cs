@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+
 namespace GreenvilleRevenueGUI
 {
     public partial class Form1 : Form
@@ -30,7 +32,7 @@ namespace GreenvilleRevenueGUI
                     + " were " + lastYearParticipants
                     + " and current year participants are "
                     + thisYearParticipants + ". Last year"
-                    + " participation was mor with " + max
+                    + " participation were more with " + max
                     + " number of participants. Revenue"
                     + " for current year is $" + revenue + ".";
             }
@@ -41,7 +43,7 @@ namespace GreenvilleRevenueGUI
            + " were " + lastYearParticipants
            + " and current year participants are "
            + thisYearParticipants + ". This year "
-           + "participation is more with " + max
+           + "there are more participation with " + max
            + " number of participants. Revenue "
            + "for current year is $" + revenue + ".";
             }
