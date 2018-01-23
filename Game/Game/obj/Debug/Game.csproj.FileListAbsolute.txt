@@ -1,0 +1,8 @@
+C:\Users\am312792\AppData\Local\Temporary Projects\Game\bin\Debug\Game.exe.config
+C:\Users\am312792\AppData\Local\Temporary Projects\Game\bin\Debug\Game.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\Game\bin\Debug\Game.pdb
+C:\Users\am312792\AppData\Local\Temporary Projects\Game\obj\Debug\Game.Form1.resources
+C:\Users\am312792\AppData\Local\Temporary Projects\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\am312792\AppData\Local\Temporary Projects\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\am312792\AppData\Local\Temporary Projects\Game\obj\Debug\Game.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\Game\obj\Debug\Game.pdb
