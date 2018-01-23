@@ -1,2 +1,7 @@
 C:\Users\am312792\AppData\Local\Temporary Projects\ValidID\bin\Debug\ValidID.exe.config
 C:\Users\am312792\Desktop\CSharp\ValidID\ValidID\bin\Debug\ValidID.exe.config
+C:\Users\am312792\Desktop\CSharp\ValidID\ValidID\bin\Debug\ValidID.exe
+C:\Users\am312792\Desktop\CSharp\ValidID\ValidID\bin\Debug\ValidID.pdb
+C:\Users\am312792\Desktop\CSharp\ValidID\ValidID\obj\Debug\ValidID.csprojResolveAssemblyReference.cache
+C:\Users\am312792\Desktop\CSharp\ValidID\ValidID\obj\Debug\ValidID.exe
+C:\Users\am312792\Desktop\CSharp\ValidID\ValidID\obj\Debug\ValidID.pdb

@@ -19,6 +19,17 @@ namespace ValidID
             input = System.Console.ReadLine();
             idNum = Convert.ToInt32(input);
 
+            while(idNum < LOW || idNum > HIGH)
+            {
+                Console.WriteLine("{0} is an invalid ID number" , idNum);
+                Console.WriteLine("ID numbers must be ");
+                Console.WriteLine("between {0} and {1} inclusive", LOW, HIGH);
+                Console.WriteLine("Enter an ID number: ");
+                input = Console.ReadLine();
+                idNum = Convert.ToInt32(input);
+            }
+            Console.WriteLine("ID number {0} is valid", idNum);
+
         }
     }
 }
