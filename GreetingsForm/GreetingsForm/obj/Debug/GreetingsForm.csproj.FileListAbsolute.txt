@@ -1,0 +1,9 @@
+C:\Users\am312792\AppData\Local\Temporary Projects\GreetingsForm\bin\Debug\GreetingsForm.exe.config
+C:\Users\am312792\AppData\Local\Temporary Projects\GreetingsForm\bin\Debug\GreetingsForm.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\GreetingsForm\bin\Debug\GreetingsForm.pdb
+C:\Users\am312792\AppData\Local\Temporary Projects\GreetingsForm\obj\Debug\GreetingsForm.csprojResolveAssemblyReference.cache
+C:\Users\am312792\AppData\Local\Temporary Projects\GreetingsForm\obj\Debug\GreetingsForm.Form1.resources
+C:\Users\am312792\AppData\Local\Temporary Projects\GreetingsForm\obj\Debug\GreetingsForm.Properties.Resources.resources
+C:\Users\am312792\AppData\Local\Temporary Projects\GreetingsForm\obj\Debug\GreetingsForm.csproj.GenerateResource.Cache
+C:\Users\am312792\AppData\Local\Temporary Projects\GreetingsForm\obj\Debug\GreetingsForm.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\GreetingsForm\obj\Debug\GreetingsForm.pdb

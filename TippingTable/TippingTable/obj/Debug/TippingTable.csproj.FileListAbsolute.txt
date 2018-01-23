@@ -1,0 +1,8 @@
+C:\Users\am312792\AppData\Local\Temporary Projects\TippingTable\bin\Debug\TippingTable.exe.config
+C:\Users\am312792\AppData\Local\Temporary Projects\TippingTable\bin\Debug\TippingTable.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\TippingTable\bin\Debug\TippingTable.pdb
+C:\Users\am312792\AppData\Local\Temporary Projects\TippingTable\obj\Debug\TippingTable.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\TippingTable\obj\Debug\TippingTable.pdb
+C:\Users\am312792\Desktop\CSharp\TippingTable\TippingTable\bin\Debug\TippingTable.exe.config
+C:\Users\am312792\Desktop\CSharp\TippingTable\TippingTable\obj\Debug\TippingTable.exe
+C:\Users\am312792\Desktop\CSharp\TippingTable\TippingTable\obj\Debug\TippingTable.pdb
