@@ -10,3 +10,9 @@ C:\Users\am312792\AppData\Local\Temporary Projects\GuessingGameGUI\obj\Debug\Gue
 C:\Users\am312792\Desktop\CSharp\GuessingGameGUI\GuessingGameGUI\bin\Debug\GuessingGameGUI.exe.config
 C:\Users\am312792\Desktop\CSharp\GuessingGameGUI\GuessingGameGUI\obj\Debug\GuessingGameGUI.exe
 C:\Users\am312792\Desktop\CSharp\GuessingGameGUI\GuessingGameGUI\obj\Debug\GuessingGameGUI.pdb
+C:\Users\am312792\Desktop\CSharp\GuessingGameGUI\GuessingGameGUI\bin\Debug\GuessingGameGUI.exe
+C:\Users\am312792\Desktop\CSharp\GuessingGameGUI\GuessingGameGUI\bin\Debug\GuessingGameGUI.pdb
+C:\Users\am312792\Desktop\CSharp\GuessingGameGUI\GuessingGameGUI\obj\Debug\GuessingGameGUI.csprojResolveAssemblyReference.cache
+C:\Users\am312792\Desktop\CSharp\GuessingGameGUI\GuessingGameGUI\obj\Debug\GuessingGameGUI.Form1.resources
+C:\Users\am312792\Desktop\CSharp\GuessingGameGUI\GuessingGameGUI\obj\Debug\GuessingGameGUI.Properties.Resources.resources
+C:\Users\am312792\Desktop\CSharp\GuessingGameGUI\GuessingGameGUI\obj\Debug\GuessingGameGUI.csproj.GenerateResource.Cache
