@@ -26,17 +26,21 @@ namespace GuessingGameGUI
             randomNumber = randNumber.Next(1, 20);
             txtNumberGuess.Clear();
             lblOutput.Text = string.Empty;
+            number = 0;
+            number2 = 0;
+            
         }
 
         int randomNumber;
-        
+        int number = 0;
+        int number2 = 0;
 
             
         private void btnGuess_Click(object sender, EventArgs e)
         {
             string input;
             int guess;
-                  
+                              
 
             input = txtNumberGuess.Text;
             guess = Convert.ToInt32(input);
@@ -46,21 +50,51 @@ namespace GuessingGameGUI
             {
                 if (guess > randomNumber)
                 {
-                    lblOutput.Text = "You guessed to high. Try again.";
+                    number = number +1;
+                    number2 = 0;
+                    if (number == 2)
+                    {
+                        
+                        lblOutput.Text = "You dummy! I said you guessed to high!";
+                                                
+                    }
+                    else if (number < 2)
+                    {
+
+                        lblOutput.Text = "You guessed to high. Try again.";
+                                                
+                    }
+                    
                 }
                 else if (guess < randomNumber)
                 {
-                    lblOutput.Text = "You guessed to low. Try again.";
+                     number2 = number2 +1;
+                     number = 0;
+                    if (number2 == 2)
+                    {
+                        
+                        lblOutput.Text = "You dummy! I said you guessed to low!";
+                                                
+                    }
+                    else if (number2 < 2)
+                    {
+
+                        lblOutput.Text = "You guessed to low. Try again.";
+                                                
+                    }
+                    
                 }
-                 
-            }
+               }
             else
             {
                 lblOutput.Text = "You guessed it right! the number was " + randomNumber + "!";
 
             }
+                 
+            }
+            
         }
 
              
     }
-}
+
