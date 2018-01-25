@@ -16,7 +16,8 @@ namespace GuessingGameGUI
         {
             InitializeComponent();
             Random randNumber = new Random();
-            randomNumber = randNumber.Next(1, 10);        
+            randomNumber = randNumber.Next(1, 10);
+            
         }
 
         private void btnReset_Click(object sender, EventArgs e)
@@ -28,18 +29,19 @@ namespace GuessingGameGUI
         }
 
         int randomNumber;
+        
 
             
         private void btnGuess_Click(object sender, EventArgs e)
         {
             string input;
             int guess;
- 
-            
+                  
 
             input = txtNumberGuess.Text;
             guess = Convert.ToInt32(input);
-            
+
+
             if (guess != randomNumber)
             {
                 if (guess > randomNumber)
@@ -50,10 +52,12 @@ namespace GuessingGameGUI
                 {
                     lblOutput.Text = "You guessed to low. Try again.";
                 }
+                 
             }
             else
             {
                 lblOutput.Text = "You guessed it right! the number was " + randomNumber + "!";
+
             }
         }
 
