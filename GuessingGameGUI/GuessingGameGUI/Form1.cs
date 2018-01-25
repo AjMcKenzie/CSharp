@@ -34,8 +34,8 @@ namespace GuessingGameGUI
         {
             string input;
             int guess;
-            int lowGuess =0;
-            int highGuess =0;
+ 
+            
 
             input = txtNumberGuess.Text;
             guess = Convert.ToInt32(input);
@@ -45,35 +45,18 @@ namespace GuessingGameGUI
                 if (guess > randomNumber)
                 {
                     lblOutput.Text = "You guessed to high. Try again.";
-                    highGuess = +1;
-                    if (highGuess > 2)
-                    {
-                        lblOutput.Text = "You dummy. I told you you guessed to high already. Try again.";
-                    }
-
                 }
                 else if (guess < randomNumber)
                 {
                     lblOutput.Text = "You guessed to low. Try again.";
-                    lowGuess = +1;
-                    if (lowGuess > 2)
-                    {
-                        lblOutput.Text = "You dummy. I told you you guessed to high already. Try again.";
-                    }
                 }
             }
             else
             {
                 lblOutput.Text = "You guessed it right! the number was " + randomNumber + "!";
             }
-
-                     
-
-
         }
 
-        
-
-                      
+             
     }
 }
