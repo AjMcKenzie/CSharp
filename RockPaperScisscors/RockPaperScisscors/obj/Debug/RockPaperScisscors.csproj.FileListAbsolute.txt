@@ -1,0 +1,9 @@
+C:\Users\am312792\AppData\Local\Temporary Projects\RockPaperScisscors\bin\Debug\RockPaperScisscors.exe.config
+C:\Users\am312792\AppData\Local\Temporary Projects\RockPaperScisscors\bin\Debug\RockPaperScisscors.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\RockPaperScisscors\bin\Debug\RockPaperScisscors.pdb
+C:\Users\am312792\AppData\Local\Temporary Projects\RockPaperScisscors\obj\Debug\RockPaperScisscors.csprojResolveAssemblyReference.cache
+C:\Users\am312792\AppData\Local\Temporary Projects\RockPaperScisscors\obj\Debug\RockPaperScisscors.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\RockPaperScisscors\obj\Debug\RockPaperScisscors.pdb
+C:\Users\am312792\Desktop\CSharp\RockPaperScisscors\RockPaperScisscors\bin\Debug\RockPaperScisscors.exe.config
+C:\Users\am312792\Desktop\CSharp\RockPaperScisscors\RockPaperScisscors\obj\Debug\RockPaperScisscors.exe
+C:\Users\am312792\Desktop\CSharp\RockPaperScisscors\RockPaperScisscors\obj\Debug\RockPaperScisscors.pdb
