@@ -10,3 +10,9 @@ C:\Users\am312792\AppData\Local\Temporary Projects\RockPaperScissorsGUI\obj\Debu
 C:\Users\am312792\Desktop\CSharp\RockPaperScissorsGUI\RockPaperScissorsGUI\bin\Debug\RockPaperScissorsGUI.exe.config
 C:\Users\am312792\Desktop\CSharp\RockPaperScissorsGUI\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.exe
 C:\Users\am312792\Desktop\CSharp\RockPaperScissorsGUI\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.pdb
+C:\Users\am312792\Desktop\CSharp\RockPaperScissorsGUI\RockPaperScissorsGUI\bin\Debug\RockPaperScissorsGUI.exe
+C:\Users\am312792\Desktop\CSharp\RockPaperScissorsGUI\RockPaperScissorsGUI\bin\Debug\RockPaperScissorsGUI.pdb
+C:\Users\am312792\Desktop\CSharp\RockPaperScissorsGUI\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.csprojResolveAssemblyReference.cache
+C:\Users\am312792\Desktop\CSharp\RockPaperScissorsGUI\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.Form1.resources
+C:\Users\am312792\Desktop\CSharp\RockPaperScissorsGUI\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.Properties.Resources.resources
+C:\Users\am312792\Desktop\CSharp\RockPaperScissorsGUI\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.csproj.GenerateResource.Cache
