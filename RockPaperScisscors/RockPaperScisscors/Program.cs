@@ -17,17 +17,19 @@ namespace RockPaperScisscors
             int rockNum = 1;
             int paperNum = 2;
             int scissorsNum = 3;
-                  
 
-                Random randNumber = new Random();
+
+            Random randNumber = new Random();
+                
           
             
            while (score < 10)
                 {
+                    randomNumber = randNumber.Next(1, 3);
                     Console.WriteLine("Enter 1 for Rock, 2 for paper, or 3 for scissors...");
                     choice = Console.ReadLine();
                     choiceNumber = Convert.ToInt32(choice);
-                    randomNumber = randNumber.Next(1, 3);
+                    
 
                  if (choiceNumber == rockNum && randomNumber == rockNum)  //rock- 1
                 {
@@ -53,10 +55,10 @@ namespace RockPaperScisscors
                         randomNumber = randNumber.Next(1, 3);
                         Console.WriteLine("You lost!");
                         Console.WriteLine("");
-                        if (score != 0)
+                        /*if (score != 0)
                         {
                             score = score - 1;
-                        }
+                        }*/
                         Console.WriteLine("You have won " + score + " times.");
                         
                         Console.WriteLine("");
@@ -85,10 +87,10 @@ namespace RockPaperScisscors
                      randomNumber = randNumber.Next(1, 3);
                      Console.WriteLine("You lost!");
                      Console.WriteLine("");
-                     if (score != 0)
+                     /*if (score != 0)
                      {
                          score = score - 1;
-                     }
+                     }*/
                      Console.WriteLine("You have won " + score + " times.");
                      
                      Console.WriteLine("");
@@ -117,12 +119,12 @@ namespace RockPaperScisscors
                      randomNumber = randNumber.Next(1, 3);
                      Console.WriteLine("You lost!");
                      Console.WriteLine("");
-                     if (score != 0)
+                     /*if (score != 0)
                      {
                          score = score - 1;
-                     }
+                     }*/
                      Console.WriteLine("You have won " + score + " times.");
-                     
+                  
                      Console.WriteLine("");
                  }
 
