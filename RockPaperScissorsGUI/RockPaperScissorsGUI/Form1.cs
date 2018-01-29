@@ -66,9 +66,11 @@ namespace RockPaperScissorsGUI
                 lblWinLoseDraw.Text = "You Lost!";
             } 
         }
+         
 
         private void picScissors_Click(object sender, EventArgs e)
         {
+             {
             randomNumber = randNumber.Next(1, 3);
 
             if (randomNumber == rock)
@@ -85,6 +87,7 @@ namespace RockPaperScissorsGUI
             {
                 lblWinLoseDraw.Text = "You Tied!";  
             } 
+        }
         }
     }
 }
