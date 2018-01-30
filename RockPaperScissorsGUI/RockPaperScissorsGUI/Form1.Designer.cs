@@ -28,15 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.lblScore = new System.Windows.Forms.Label();
             this.lblWinLoseDraw = new System.Windows.Forms.Label();
+            this.picScissors = new System.Windows.Forms.PictureBox();
             this.picPaper = new System.Windows.Forms.PictureBox();
             this.picRock = new System.Windows.Forms.PictureBox();
-            this.picScissors = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.picScissors)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPaper)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picRock)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picScissors)).BeginInit();
             this.SuspendLayout();
             // 
             // lblScore
@@ -57,9 +56,20 @@
             this.lblWinLoseDraw.TabIndex = 4;
             this.lblWinLoseDraw.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // picScissors
+            // 
+            this.picScissors.Image = global::RockPaperScissorsGUI.Properties.Resources.Scissors;
+            this.picScissors.Location = new System.Drawing.Point(361, 38);
+            this.picScissors.Name = "picScissors";
+            this.picScissors.Size = new System.Drawing.Size(143, 96);
+            this.picScissors.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picScissors.TabIndex = 5;
+            this.picScissors.TabStop = false;
+            this.picScissors.Click += new System.EventHandler(this.picScissors_Click);
+            // 
             // picPaper
             // 
-            this.picPaper.Image = ((System.Drawing.Image)(resources.GetObject("picPaper.Image")));
+            this.picPaper.Image = global::RockPaperScissorsGUI.Properties.Resources.paper;
             this.picPaper.Location = new System.Drawing.Point(184, 38);
             this.picPaper.Name = "picPaper";
             this.picPaper.Size = new System.Drawing.Size(143, 96);
@@ -70,7 +80,7 @@
             // 
             // picRock
             // 
-            this.picRock.Image = ((System.Drawing.Image)(resources.GetObject("picRock.Image")));
+            this.picRock.Image = global::RockPaperScissorsGUI.Properties.Resources.diamond;
             this.picRock.Location = new System.Drawing.Point(12, 38);
             this.picRock.Name = "picRock";
             this.picRock.Size = new System.Drawing.Size(143, 96);
@@ -78,16 +88,6 @@
             this.picRock.TabIndex = 0;
             this.picRock.TabStop = false;
             this.picRock.Click += new System.EventHandler(this.picRock_Click);
-            // 
-            // picScissors
-            // 
-            this.picScissors.Location = new System.Drawing.Point(361, 38);
-            this.picScissors.Name = "picScissors";
-            this.picScissors.Size = new System.Drawing.Size(143, 96);
-            this.picScissors.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picScissors.TabIndex = 5;
-            this.picScissors.TabStop = false;
-            this.picScissors.Click += new System.EventHandler(this.picScissors_Click);
             // 
             // Form1
             // 
@@ -101,9 +101,10 @@
             this.Controls.Add(this.picRock);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.picScissors)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPaper)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picRock)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picScissors)).EndInit();
             this.ResumeLayout(false);
 
         }
