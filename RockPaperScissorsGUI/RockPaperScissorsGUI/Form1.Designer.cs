@@ -93,7 +93,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(560, 358);
+            this.ClientSize = new System.Drawing.Size(538, 291);
             this.Controls.Add(this.picScissors);
             this.Controls.Add(this.lblWinLoseDraw);
             this.Controls.Add(this.lblScore);
