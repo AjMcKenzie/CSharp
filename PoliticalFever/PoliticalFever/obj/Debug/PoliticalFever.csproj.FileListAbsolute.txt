@@ -7,3 +7,6 @@ C:\Users\am312792\AppData\Local\Temporary Projects\PoliticalFever\obj\Debug\Poli
 C:\Users\am312792\Desktop\CSharp\PoliticalFever\PoliticalFever\bin\Debug\PoliticalFever.exe.config
 C:\Users\am312792\Desktop\CSharp\PoliticalFever\PoliticalFever\obj\Debug\PoliticalFever.exe
 C:\Users\am312792\Desktop\CSharp\PoliticalFever\PoliticalFever\obj\Debug\PoliticalFever.pdb
+C:\Users\am312792\Desktop\CSharp\PoliticalFever\PoliticalFever\bin\Debug\PoliticalFever.exe
+C:\Users\am312792\Desktop\CSharp\PoliticalFever\PoliticalFever\bin\Debug\PoliticalFever.pdb
+C:\Users\am312792\Desktop\CSharp\PoliticalFever\PoliticalFever\obj\Debug\PoliticalFever.csprojResolveAssemblyReference.cache

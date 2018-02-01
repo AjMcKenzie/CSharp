@@ -14,11 +14,14 @@ namespace PoliticalFever
             string C1;
             string C2;
             decimal NumDelegates = 0;
+            int NumD;
             decimal candidate1 = 0;
             decimal candidate2 = 0;
             decimal C1V;
+            int intC1V;
             decimal C2V;
-            decimal candidate3;
+            int intC2V;
+            int candidate3;
 
             Console.WriteLine("Number of delegates: ");
             input = Console.ReadLine();
@@ -28,20 +31,39 @@ namespace PoliticalFever
             C1 = Console.ReadLine();
             candidate1 = Convert.ToDecimal(C1);
 
-            Console.WriteLine(" Candidate 2 votes: ");
+            Console.WriteLine("Candidate 2 votes: ");
             C2 = Console.ReadLine();
             candidate2 = Convert.ToDecimal(C2);
 
             
+
             C1V = NumDelegates * candidate1;
             C2V = NumDelegates * candidate2;
 
-            C1V = Convert.ToInt32(C1V);
-            C2V = Convert.ToInt32(C2V);
-            NumDelegates=Convert.ToInt32(NumDelegates);
-            candidate3 = NumDelegates - (C1V + C2V);
+            intC1V = Convert.ToInt32(C1V);
+            intC2V = Convert.ToInt32(C2V);
+            NumD = Convert.ToInt32(NumDelegates);
 
+            candidate3 = NumD - (intC1V + intC2V);
+
+            if (candidate3 < 15 && intC1V > 15 && intC2V > 15)
+            {
+                intC1V = (candidate3 / 2) + intC1V;
+                intC2V = (candidate3 / 2) + intC2V;
+                candidate3 = 0;
+            }
             
+            if (intC1V > intC2V && intC1V > candidate3)
+            {
+                intC1V = NumD;
+                intC2V = 0;
+            }
+
+            Console.WriteLine("Candidate 1: " + intC1V);
+            Console.WriteLine("Candidate 2: " + intC2V);
+            Console.WriteLine("Candidate 3: " + candidate3);
+
+
             //Ex1
             //NumDelegates * C1
             //NumDelegates * C2
@@ -51,10 +73,10 @@ namespace PoliticalFever
             //NumDelegates * C1
             //NumDelegates * C2
             //C3 = NumDelegates - (C1 + C2)
-            //if c3 > 15% c3 == 0
+            //if c3 < 15% c3 == 0
 
             //if AC > 15%    TV == 0
-            //if C# < 50%     C# == #D
+            //if C# > 50%     C# == #D
             //if C1 && C2 >= 15% || 50%   C# && c# ==TV
             //if C3 < 15%   C1 && C2 = C3/2 + c1 && C2
 
