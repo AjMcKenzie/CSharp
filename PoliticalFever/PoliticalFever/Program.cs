@@ -22,47 +22,63 @@ namespace PoliticalFever
             decimal C2V;
             int intC2V;
             int candidate3;
+            string restart;
 
-            Console.WriteLine("Number of delegates: ");
-            input = Console.ReadLine();
-            NumDelegates= Convert.ToInt32(input);
 
-            Console.WriteLine("Candidate 1 votes: ");
-            C1 = Console.ReadLine();
-            candidate1 = Convert.ToDecimal(C1);
-
-            Console.WriteLine("Candidate 2 votes: ");
-            C2 = Console.ReadLine();
-            candidate2 = Convert.ToDecimal(C2);
 
             
-
-            C1V = NumDelegates * candidate1;
-            C2V = NumDelegates * candidate2;
-
-            intC1V = Convert.ToInt32(C1V);
-            intC2V = Convert.ToInt32(C2V);
-            NumD = Convert.ToInt32(NumDelegates);
-
-            candidate3 = NumD - (intC1V + intC2V);
-
-            if (candidate3 < 15 && intC1V > 15 && intC2V > 15)
+            do
             {
-                intC1V = (candidate3 / 2) + intC1V;
-                intC2V = (candidate3 / 2) + intC2V;
-                candidate3 = 0;
-            }
-            
-            if (intC1V > intC2V && intC1V > candidate3)
-            {
-                intC1V = NumD;
-                intC2V = 0;
-            }
 
-            Console.WriteLine("Candidate 1: " + intC1V);
-            Console.WriteLine("Candidate 2: " + intC2V);
-            Console.WriteLine("Candidate 3: " + candidate3);
+                Console.WriteLine("Number of delegates: ");
+                input = Console.ReadLine();
+                NumDelegates = Convert.ToInt32(input);
 
+                Console.WriteLine("Candidate 1 votes: ");
+                C1 = Console.ReadLine();
+                candidate1 = Convert.ToDecimal(C1);
+
+                Console.WriteLine("Candidate 2 votes: ");
+                C2 = Console.ReadLine();
+                candidate2 = Convert.ToDecimal(C2);
+
+
+
+                C1V = NumDelegates * candidate1;
+                C2V = NumDelegates * candidate2;
+
+                intC1V = Convert.ToInt32(C1V);
+                intC2V = Convert.ToInt32(C2V);
+                NumD = Convert.ToInt32(NumDelegates);
+
+                candidate3 = NumD - (intC1V + intC2V);
+
+                if (candidate3 < 15 && intC1V >= 15 && intC2V >= 15)
+                {
+                    intC1V = (candidate3 / 2) + intC1V;
+                    intC2V = (candidate3 / 2) + intC2V;
+                    candidate3 = 0;
+                }
+
+                if (intC1V > 50 && intC2V < 50)
+                {
+                    intC1V = NumD;
+                    intC2V = 0;
+                    candidate3 = 0;
+                }
+
+                Console.WriteLine("Candidate 1: " + intC1V);
+                Console.WriteLine("Candidate 2: " + intC2V);
+                Console.WriteLine("Candidate 3: " + candidate3);
+                
+                Console.WriteLine("");
+                Console.Write("Do you wish to calculate another? (YES/NO):");
+                restart = Console.ReadLine().ToUpper();
+                Console.WriteLine("");
+              
+
+            } while (restart == "YES");
+        
 
             //Ex1
             //NumDelegates * C1
