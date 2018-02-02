@@ -24,8 +24,7 @@ namespace PoliticalFever
             int candidate3;
             string restart;
 
-
-
+            
             
             do
             {
@@ -43,7 +42,6 @@ namespace PoliticalFever
                 candidate2 = Convert.ToDecimal(C2);
 
 
-
                 C1V = NumDelegates * candidate1;
                 C2V = NumDelegates * candidate2;
 
@@ -53,26 +51,36 @@ namespace PoliticalFever
 
                 candidate3 = NumD - (intC1V + intC2V);
 
-                if (candidate3 < 15 && intC1V >= 15 && intC2V >= 15)
+                if (candidate3 < 15)
                 {
-                    intC1V = (candidate3 / 2) + intC1V;
-                    intC2V = (candidate3 / 2) + intC2V;
-                    candidate3 = 0;
+                    if (intC1V >= 15 && intC1V < 50)
+                    {
+                        if (intC2V >= 15)
+                        {
+                            intC1V = (candidate3 / 2) + intC1V; 
+                            intC2V = (candidate3 / 2) + intC2V;
+                            candidate3 = 0;
+                        }
+                       
+                    }
+                    else if (intC1V >= 50)
+                    {
+                        intC1V = intC1V + intC2V;
+                        intC2V = 0;
+                        candidate3 = 0;
+                    }
+
+                    
                 }
 
-                if (intC1V > 50 && intC2V < 50)
-                {
-                    intC1V = NumD;
-                    intC2V = 0;
-                    candidate3 = 0;
-                }
+              
 
                 Console.WriteLine("Candidate 1: " + intC1V);
                 Console.WriteLine("Candidate 2: " + intC2V);
                 Console.WriteLine("Candidate 3: " + candidate3);
                 
                 Console.WriteLine("");
-                Console.Write("Do you wish to calculate another? (YES/NO):");
+                Console.Write("Do you wish to calculate another? (YES/NO): ");
                 restart = Console.ReadLine().ToUpper();
                 Console.WriteLine("");
               
