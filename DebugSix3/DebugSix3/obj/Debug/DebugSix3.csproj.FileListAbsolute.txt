@@ -1,0 +1,12 @@
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix3\bin\Debug\DebugSix3.exe.config
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix3\obj\Debug\DebugSix3.csprojResolveAssemblyReference.cache
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix3\bin\Debug\DebugSix3.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix3\bin\Debug\DebugSix3.pdb
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix3\obj\Debug\DebugSix3.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix3\obj\Debug\DebugSix3.pdb
+C:\Users\am312792\Desktop\CSharp\DebugSix3\DebugSix3\bin\Debug\DebugSix3.exe.config
+C:\Users\am312792\Desktop\CSharp\DebugSix3\DebugSix3\bin\Debug\DebugSix3.exe
+C:\Users\am312792\Desktop\CSharp\DebugSix3\DebugSix3\bin\Debug\DebugSix3.pdb
+C:\Users\am312792\Desktop\CSharp\DebugSix3\DebugSix3\obj\Debug\DebugSix3.csprojResolveAssemblyReference.cache
+C:\Users\am312792\Desktop\CSharp\DebugSix3\DebugSix3\obj\Debug\DebugSix3.exe
+C:\Users\am312792\Desktop\CSharp\DebugSix3\DebugSix3\obj\Debug\DebugSix3.pdb

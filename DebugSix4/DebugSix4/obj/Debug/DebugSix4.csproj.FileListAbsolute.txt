@@ -1,0 +1,12 @@
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix4\bin\Debug\DebugSix4.exe.config
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix4\obj\Debug\DebugSix4.csprojResolveAssemblyReference.cache
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix4\bin\Debug\DebugSix4.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix4\bin\Debug\DebugSix4.pdb
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix4\obj\Debug\DebugSix4.exe
+C:\Users\am312792\AppData\Local\Temporary Projects\DebugSix4\obj\Debug\DebugSix4.pdb
+C:\Users\am312792\Desktop\CSharp\DebugSix4\DebugSix4\bin\Debug\DebugSix4.exe.config
+C:\Users\am312792\Desktop\CSharp\DebugSix4\DebugSix4\obj\Debug\DebugSix4.exe
+C:\Users\am312792\Desktop\CSharp\DebugSix4\DebugSix4\obj\Debug\DebugSix4.pdb
+C:\Users\am312792\Desktop\CSharp\DebugSix4\DebugSix4\bin\Debug\DebugSix4.exe
+C:\Users\am312792\Desktop\CSharp\DebugSix4\DebugSix4\bin\Debug\DebugSix4.pdb
+C:\Users\am312792\Desktop\CSharp\DebugSix4\DebugSix4\obj\Debug\DebugSix4.csprojResolveAssemblyReference.cache
