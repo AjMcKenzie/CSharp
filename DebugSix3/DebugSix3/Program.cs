@@ -10,7 +10,7 @@ namespace DebugSix3
     {
         static void Main(string[] args)
         {
-            string[] books = {"Catch-22", "Harry Potter",
+            String[] books = {"Catch-22", "Harry Potter",
          "Programming Using C#", "Rich Dad, Poor Dad",
          "The Deep", "Wizard of Oz"};
             int x;
